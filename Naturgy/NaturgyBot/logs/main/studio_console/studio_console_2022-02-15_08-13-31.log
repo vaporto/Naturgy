@@ -1,0 +1,562 @@
+
+  ==========================================
+  Studio Pro version: 7.0.40
+  Started at: 15/02/2022 08:14:01
+  ==========================================
+  
+
+[2022-02-15T11:23:39.925Z] : [success]: Connection to our licenses server is restored
+
+[2022-02-15T11:23:40.359Z] : [success]: Robot saved successfully
+
+[2022-02-15T11:23:40.697Z] : [info]: ---------------------------------------------
+
+[2022-02-15T11:23:40.720Z] : [success]: Bot started
+
+[2022-02-15T11:23:40.742Z] : [info]: Robot start
+
+[2022-02-15T11:27:28.437Z] : [error]: Script Stopped.
+
+[2022-02-15T11:27:28.455Z] : [warn]: Total execution time: 3m 47s 692ms
+
+[2022-02-15T11:27:28.470Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:04:24.677Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:04:24.900Z] : [success]: Bot started
+
+[2022-02-15T12:04:24.905Z] : [info]: Robot start
+
+[2022-02-15T12:04:42.060Z] : [success]: Bot finished successfully, total execution time: 17s 145ms
+
+[2022-02-15T12:04:42.069Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:05:25.971Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:05:26.231Z] : [success]: Bot started
+
+[2022-02-15T12:05:26.235Z] : [info]: Robot start
+
+[2022-02-15T12:05:32.964Z] : [success]: Bot finished successfully, total execution time: 6s 726ms
+
+[2022-02-15T12:05:32.969Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:06:33.116Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:06:33.329Z] : [success]: Bot started
+
+[2022-02-15T12:06:33.333Z] : [info]: Robot start
+
+[2022-02-15T12:06:39.903Z] : [success]: Bot finished successfully, total execution time: 6s 567ms
+
+[2022-02-15T12:06:39.905Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:12:26.563Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:12:26.766Z] : [success]: Bot started
+
+[2022-02-15T12:12:26.770Z] : [info]: Robot start
+
+[2022-02-15T12:12:38.209Z] : [success]: Bot finished successfully, total execution time: 11s 432ms
+
+[2022-02-15T12:12:38.219Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:13:01.001Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:13:01.186Z] : [success]: Bot started
+
+[2022-02-15T12:13:01.188Z] : [info]: Robot start
+
+[2022-02-15T12:13:03.263Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:13:03.350Z] : [error]: Total execution time: 2s 69ms
+
+[2022-02-15T12:13:03.356Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:13:22.740Z] : [success]: Bot started
+
+[2022-02-15T12:13:22.743Z] : [info]: Robot start
+
+[2022-02-15T12:13:24.997Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:13:25.013Z] : [error]: Total execution time: 2s 253ms
+
+[2022-02-15T12:13:25.018Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:13:47.126Z] : [info]: Internet connection // error
+
+[2022-02-15T12:13:47.450Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:13:47.625Z] : [success]: Bot started
+
+[2022-02-15T12:13:47.630Z] : [info]: Robot start
+
+[2022-02-15T12:13:50.106Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:13:50.115Z] : [error]: Total execution time: 2s 476ms
+
+[2022-02-15T12:13:50.120Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:15:05.394Z] : [success]: Connection to our licenses server is restored
+
+[2022-02-15T12:15:05.983Z] : [success]: Bot started
+
+[2022-02-15T12:15:05.989Z] : [info]: Robot start
+
+[2022-02-15T12:15:07.963Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:15:07.980Z] : [error]: Total execution time: 1s 973ms
+
+[2022-02-15T12:15:07.985Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:17:08.577Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:17:08.784Z] : [success]: Bot started
+
+[2022-02-15T12:17:08.787Z] : [info]: Robot start
+
+[2022-02-15T12:17:12.151Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:17:12.266Z] : [error]: Total execution time: 3s 363ms
+
+[2022-02-15T12:17:12.283Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:19:05.783Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:19:05.786Z] : [success]: Bot started
+
+[2022-02-15T12:19:05.792Z] : [info]: Robot start
+
+[2022-02-15T12:19:09.306Z] : [error]: Timeout has occurred
+
+[2022-02-15T12:19:09.347Z] : [error]: Total execution time: 3s 514ms
+
+[2022-02-15T12:19:09.518Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:19:50.101Z] : [success]: Bot started
+
+[2022-02-15T12:19:50.104Z] : [info]: Robot start
+
+[2022-02-15T12:19:53.661Z] : [error]: Timeout has occurred
+
+[2022-02-15T12:19:53.744Z] : [error]: Total execution time: 3s 557ms
+
+[2022-02-15T12:19:54.042Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:26:42.991Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:26:43.262Z] : [success]: Bot started
+
+[2022-02-15T12:26:43.268Z] : [info]: Robot start
+
+[2022-02-15T12:29:19.084Z] : [success]: Bot finished successfully, total execution time: 2m 35s 807ms
+
+[2022-02-15T12:29:19.091Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:41:56.290Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:41:56.523Z] : [success]: Bot started
+
+[2022-02-15T12:41:56.527Z] : [info]: Robot start
+
+[2022-02-15T12:44:29.089Z] : [success]: Bot finished successfully, total execution time: 2m 32s 556ms
+
+[2022-02-15T12:44:29.095Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:47:37.087Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:47:37.299Z] : [success]: Bot started
+
+[2022-02-15T12:47:37.302Z] : [info]: Robot start
+
+[2022-02-15T12:50:13.097Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T12:50:13.110Z] : [error]: Total execution time: 2m 35s 791ms
+
+[2022-02-15T12:50:13.117Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:52:11.498Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:54:11.247Z] : [success]: Robot saved successfully
+
+[2022-02-15T12:54:11.468Z] : [info]: ---------------------------------------------
+
+[2022-02-15T12:54:11.471Z] : [success]: Bot started
+
+[2022-02-15T12:54:11.476Z] : [info]: Robot start
+
+[2022-02-15T12:57:10.021Z] : [success]: Bot finished successfully, total execution time: 2m 58s 541ms
+
+[2022-02-15T12:57:10.028Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:00:17.542Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:00:17.729Z] : [success]: Bot started
+
+[2022-02-15T13:00:17.734Z] : [info]: Robot start
+
+[2022-02-15T13:00:46.014Z] : [error]: Disposable been disposed
+
+[2022-02-15T13:00:46.031Z] : [error]: Total execution time: 28s 276ms
+
+[2022-02-15T13:00:46.039Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:01:39.576Z] : [success]: Bot started
+
+[2022-02-15T13:01:39.580Z] : [info]: Robot start
+
+[2022-02-15T13:04:37.019Z] : [success]: Bot finished successfully, total execution time: 2m 57s 434ms
+
+[2022-02-15T13:04:37.026Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:12:13.213Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:12:13.470Z] : [success]: Bot started
+
+[2022-02-15T13:12:13.476Z] : [info]: Robot start
+
+[2022-02-15T13:12:26.065Z] : [success]: Bot finished successfully, total execution time: 12s 584ms
+
+[2022-02-15T13:12:26.077Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:14:02.781Z] : [info]: Internet connection // error
+
+[2022-02-15T13:14:03.190Z] : [success]: Bot started
+
+[2022-02-15T13:14:03.197Z] : [info]: Robot start
+
+[2022-02-15T13:14:06.138Z] : [error]: Timeout has occurred
+
+[2022-02-15T13:14:06.145Z] : [error]: Total execution time: 2s 932ms
+
+[2022-02-15T13:14:06.161Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:15:59.195Z] : [success]: Connection to our licenses server is restored
+
+[2022-02-15T13:16:00.354Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:16:00.360Z] : [success]: Bot started
+
+[2022-02-15T13:16:00.370Z] : [info]: Robot start
+
+[2022-02-15T13:16:02.539Z] : [error]: Timeout has occurred
+
+[2022-02-15T13:16:02.581Z] : [error]: Total execution time: 2s 168ms
+
+[2022-02-15T13:16:02.586Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:17:09.861Z] : [success]: Bot started
+
+[2022-02-15T13:17:09.865Z] : [info]: Robot start
+
+[2022-02-15T13:17:13.759Z] : [error]: Timeout has occurred
+
+[2022-02-15T13:17:13.800Z] : [error]: Total execution time: 3s 893ms
+
+[2022-02-15T13:17:13.807Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:18:14.185Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:18:14.456Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:18:14.461Z] : [success]: Bot started
+
+[2022-02-15T13:18:14.465Z] : [info]: Robot start
+
+[2022-02-15T13:18:18.054Z] : [error]: No extension found. Please 
+
+[2022-02-15T13:18:18.091Z] : [error]: Total execution time: 3s 588ms
+
+[2022-02-15T13:18:18.095Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:21:32.314Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:21:32.550Z] : [success]: Bot started
+
+[2022-02-15T13:21:32.555Z] : [info]: Robot start
+
+[2022-02-15T13:21:37.689Z] : [success]: Bot finished successfully, total execution time: 5s 128ms
+
+[2022-02-15T13:21:37.701Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:24:28.915Z] : [success]: Bot started
+
+[2022-02-15T13:24:28.918Z] : [info]: Robot start
+
+[2022-02-15T13:24:32.233Z] : [success]: Bot finished successfully, total execution time: 3s 297ms
+
+[2022-02-15T13:24:32.241Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:26:55.591Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:26:55.746Z] : [success]: Bot started
+
+[2022-02-15T13:26:55.750Z] : [info]: Robot start
+
+[2022-02-15T13:26:59.312Z] : [success]: Bot finished successfully, total execution time: 3s 546ms
+
+[2022-02-15T13:26:59.318Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:34:44.905Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:34:47.308Z] : [success]: Bot started
+
+[2022-02-15T13:34:47.313Z] : [info]: Robot start
+
+[2022-02-15T13:34:59.210Z] : [error]: Timeout has occurred
+
+[2022-02-15T13:34:59.228Z] : [error]: Total execution time: 11s 893ms
+
+[2022-02-15T13:34:59.235Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:36:02.044Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:36:02.048Z] : [success]: Bot started
+
+[2022-02-15T13:36:02.051Z] : [info]: Robot start
+
+[2022-02-15T13:36:06.543Z] : [error]: Script Stopped.
+
+[2022-02-15T13:36:06.693Z] : [warn]: Total execution time: 4s 490ms
+
+[2022-02-15T13:36:06.700Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:36:44.653Z] : [success]: Bot started
+
+[2022-02-15T13:36:44.656Z] : [info]: Robot start
+
+[2022-02-15T13:36:47.653Z] : [error]: Script Stopped.
+
+[2022-02-15T13:36:47.846Z] : [warn]: Total execution time: 2s 997ms
+
+[2022-02-15T13:36:47.851Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:46:08.286Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:46:08.515Z] : [success]: Bot started
+
+[2022-02-15T13:46:08.518Z] : [info]: Robot start
+
+[2022-02-15T13:46:39.950Z] : [success]: Bot finished successfully, total execution time: 31s 426ms
+
+[2022-02-15T13:46:39.955Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:48:47.980Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:48:48.322Z] : [success]: Bot started
+
+[2022-02-15T13:48:48.326Z] : [info]: Robot start
+
+[2022-02-15T13:49:13.975Z] : [success]: Bot finished successfully, total execution time: 25s 647ms
+
+[2022-02-15T13:49:13.980Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:57:59.111Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:57:59.345Z] : [success]: Bot started
+
+[2022-02-15T13:57:59.349Z] : [info]: Robot start
+
+[2022-02-15T13:58:22.156Z] : [success]: Bot finished successfully, total execution time: 22s 798ms
+
+[2022-02-15T13:58:22.169Z] : [info]: ---------------------------------------------
+
+[2022-02-15T13:59:39.744Z] : [success]: Robot saved successfully
+
+[2022-02-15T13:59:39.958Z] : [success]: Bot started
+
+[2022-02-15T13:59:39.962Z] : [info]: Robot start
+
+[2022-02-15T13:59:43.116Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T13:59:43.164Z] : [error]: Total execution time: 3s 151ms
+
+[2022-02-15T13:59:43.223Z] : [info]: ---------------------------------------------
+
+[2022-02-15T14:00:53.790Z] : [success]: Robot saved successfully
+
+[2022-02-15T14:00:53.963Z] : [success]: Bot started
+
+[2022-02-15T14:00:53.967Z] : [info]: Robot start
+
+[2022-02-15T14:00:57.312Z] : [success]: Bot finished successfully, total execution time: 3s 254ms
+
+[2022-02-15T14:00:57.320Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:05:18.456Z] : [success]: Bot started
+
+[2022-02-15T15:05:18.474Z] : [info]: Robot start
+
+[2022-02-15T15:05:25.924Z] : [success]: Bot finished successfully, total execution time: 7s 432ms
+
+[2022-02-15T15:05:25.930Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:06:00.193Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:06:00.575Z] : [success]: Bot started
+
+[2022-02-15T15:06:00.581Z] : [info]: Robot start
+
+[2022-02-15T15:06:06.580Z] : [error]: Selectors: Could not activate window
+
+
+[2022-02-15T15:06:06.589Z] : [error]: Total execution time: 5s 995ms
+
+[2022-02-15T15:06:06.598Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:10:23.192Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:10:23.388Z] : [success]: Bot started
+
+[2022-02-15T15:10:23.393Z] : [info]: Robot start
+
+[2022-02-15T15:10:30.921Z] : [success]: Bot finished successfully, total execution time: 7s 520ms
+
+[2022-02-15T15:10:30.949Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:11:56.782Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:11:57.008Z] : [success]: Bot started
+
+[2022-02-15T15:11:57.011Z] : [info]: Robot start
+
+[2022-02-15T15:12:05.024Z] : [success]: Bot finished successfully, total execution time: 8s 5ms
+
+[2022-02-15T15:12:05.039Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:14:38.644Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:14:38.924Z] : [success]: Bot started
+
+[2022-02-15T15:14:38.930Z] : [info]: Robot start
+
+[2022-02-15T15:14:44.176Z] : [success]: Bot finished successfully, total execution time: 5s 238ms
+
+[2022-02-15T15:14:44.182Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:15:46.380Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:15:46.538Z] : [success]: Bot started
+
+[2022-02-15T15:15:46.542Z] : [info]: Robot start
+
+[2022-02-15T15:15:50.128Z] : [success]: Bot finished successfully, total execution time: 3s 468ms
+
+[2022-02-15T15:15:50.135Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:19:02.725Z] : [success]: Bot started
+
+[2022-02-15T15:19:02.749Z] : [info]: Robot start
+
+[2022-02-15T15:19:06.233Z] : [error]: Selectors: Nothing found
+
+[2022-02-15T15:19:06.268Z] : [error]: Total execution time: 3s 481ms
+
+[2022-02-15T15:19:06.281Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:21:56.552Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:21:57.066Z] : [success]: Bot started
+
+[2022-02-15T15:21:57.072Z] : [info]: Robot start
+
+[2022-02-15T15:22:03.239Z] : [success]: Bot finished successfully, total execution time: 6s 162ms
+
+[2022-02-15T15:22:03.245Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:24:47.081Z] : [success]: Bot started
+
+[2022-02-15T15:24:47.089Z] : [info]: Robot start
+
+[2022-02-15T15:24:54.277Z] : [success]: Bot finished successfully, total execution time: 7s 167ms
+
+[2022-02-15T15:24:54.314Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:26:36.188Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:26:36.420Z] : [success]: Bot started
+
+[2022-02-15T15:26:36.423Z] : [info]: Robot start
+
+[2022-02-15T15:26:40.144Z] : [success]: Bot finished successfully, total execution time: 3s 701ms
+
+[2022-02-15T15:26:40.189Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:27:37.200Z] : [success]: Bot started
+
+[2022-02-15T15:27:37.204Z] : [info]: Robot start
+
+[2022-02-15T15:27:41.060Z] : [success]: Bot finished successfully, total execution time: 3s 820ms
+
+[2022-02-15T15:27:41.214Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:29:09.762Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:29:09.996Z] : [success]: Bot started
+
+[2022-02-15T15:29:10.001Z] : [info]: Robot start
+
+[2022-02-15T15:29:13.867Z] : [error]: The agent is already running another script.
+
+[2022-02-15T15:29:13.874Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:29:40.847Z] : [success]: Bot started
+
+[2022-02-15T15:29:40.853Z] : [info]: Robot start
+
+[2022-02-15T15:36:19.835Z] : [error]: Script Stopped.
+
+[2022-02-15T15:36:19.856Z] : [warn]: Total execution time: 6m 38s 980ms
+
+[2022-02-15T15:36:19.863Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:37:01.852Z] : [error]: Cannot read property 'getOffsetAt' of null
+
+TypeError: Cannot read property 'getOffsetAt' of null
+    at t.e._positionToOffset (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/assets/monaco-editor/min/vs/language/typescript/tsMode.js:7:6146)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/assets/monaco-editor/min/vs/language/typescript/tsMode.js:7:12615
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:591563)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:2077153)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:591503)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:586663)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:598538
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:592247)
+    at Object.onInvokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:2077036)
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:592168)
+
+[2022-02-15T15:37:01.997Z] : [error]: Cannot read property 'getOffsetAt' of null
+
+TypeError: Cannot read property 'getOffsetAt' of null
+    at t.e._positionToOffset (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/assets/monaco-editor/min/vs/language/typescript/tsMode.js:7:6146)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/assets/monaco-editor/min/vs/language/typescript/tsMode.js:7:12615
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:591563)
+    at Object.onInvoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:2077153)
+    at e.invoke (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:591503)
+    at t.run (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:586663)
+    at file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:598538
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:592247)
+    at Object.onInvokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:2077036)
+    at e.invokeTask (file:///C:/Program%20Files/ElectroNeek%20Studio%20Pro/resources/app.asar/dist/main.1481b9f315e3bb2a5f81.js:1:592168)
+
+[2022-02-15T15:39:56.949Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:39:57.208Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:39:57.212Z] : [success]: Bot started
+
+[2022-02-15T15:39:57.215Z] : [info]: Robot start
+
+[2022-02-15T15:40:52.049Z] : [success]: Bot finished successfully, total execution time: 54s 829ms
+
+[2022-02-15T15:40:52.054Z] : [info]: ---------------------------------------------
+
+[2022-02-15T15:47:48.891Z] : [success]: Robot saved successfully
+
+[2022-02-15T15:47:49.450Z] : [success]: Bot started
+
+[2022-02-15T15:47:49.455Z] : [info]: Robot start
+
+[2022-02-15T15:49:02.501Z] : [success]: Bot finished successfully, total execution time: 1m 13s 40ms
+
+[2022-02-15T15:49:02.509Z] : [info]: ---------------------------------------------
+

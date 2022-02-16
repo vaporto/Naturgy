@@ -1,0 +1,924 @@
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_AGENTE_EMERGENCIA","10:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:15","00:04:15","0,00%","0,00%","0,0","Total Grupo",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:15","00:04:15","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 7:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:51","00:01:51","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 7:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:02","00:03:02","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 8:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:00:12","00:00:12","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 8:30:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:13","00:01:13","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 9:00:00",6,6,6,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:02:54","00:02:54","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE"," 9:30:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:16","00:02:16","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","10:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:03:39","00:03:39","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","10:30:00",6,6,6,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:01:08","00:01:08","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","11:00:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:04:34","00:04:34","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","11:00:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:04:34","00:04:34","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","11:30:00",6,6,6,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:50","00:02:50","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","11:30:00",6,6,6,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:50","00:02:50","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","12:00:00",9,9,9,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:47","00:01:47","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","12:00:00",9,9,9,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:47","00:01:47","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE","12:00:00",9,9,9,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:47","00:01:47","0,00%","0,00%","0,0","Total Grupo",42,42,42,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:14","00:02:14","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO"," 9:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:26","00:01:26","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:00:29","00:00:29","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO","10:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:08:25","00:08:25","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO","11:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:48","00:03:48","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO","11:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:27","00:03:27","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO","11:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:27","00:03:27","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_CEG_RIO","11:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:27","00:03:27","0,00%","0,00%","0,0","Total Grupo",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:30","00:03:30","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS"," 7:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:01:24","00:01:24","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS"," 8:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:31","00:03:31","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS"," 9:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:50","00:03:50","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS"," 9:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:51","00:01:51","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS","10:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:32","00:03:32","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS","10:30:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:14","00:01:14","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_AGENTE_SPS","11:00:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:03","00:01:03","0,00%","0,00%","0,0","Total Grupo",17,17,17,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:02:17","00:02:17","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 1:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:19","00:06:19","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 4:00:00",1,1,0,1,0,0,0,0,0,0,"0,00%","0,00%","0,00%","00:00:13","00:01:42","00:01:42","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 4:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:06:35","00:06:35","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 7:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:08:57","00:08:57","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 7:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:04:20","00:04:20","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 8:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:05:24","00:05:24","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 8:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:57","00:04:57","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 9:00:00",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:03:31","00:03:31","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 9:00:00",7,7,7,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:03:31","00:03:31","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:09:29","00:09:29","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:09:29","00:09:29","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","10:00:00",3,3,1,2,0,0,0,0,0,0,"0,00%","0,00%","33,33%","00:00:10","00:04:49","00:04:49","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","10:00:00",3,3,1,2,0,0,0,0,0,0,"0,00%","0,00%","33,33%","00:00:10","00:04:49","00:04:49","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","10:30:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:43","00:06:43","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","10:30:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:43","00:06:43","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:01","00:03:01","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:01","00:03:01","0,00%","0,00%","0,0","Total Grupo",24,24,21,3,0,0,0,0,0,0,"0,00%","0,00%","87,50%","00:00:04","00:04:59","00:04:59","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_CEG_RIO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:35","00:03:35","0,00%","0,00%","0,0","Total Grupo",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:49","00:06:49","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_CEG_RIO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:35","00:03:35","0,00%","0,00%","0,0","Total Grupo",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:49","00:06:49","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_CEG_RIO","11:30:00",0,0,0,0,0,0,0,0,0,0,"0,00%","0,00%","0,00%","00:00:00","00:00:00","00:00:00","0,00%","0,00%","0,0","Total Grupo",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:49","00:06:49","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_CEG_RIO","12:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:05:35","00:05:35","0,00%","0,00%","0,0","Total Grupo",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:49","00:06:49","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS"," 7:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:05:02","00:05:02","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS"," 8:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:00:59","00:00:59","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS"," 9:00:00",2,2,1,0,0,0,0,0,0,0,"0,00%","0,00%","50,00%","00:00:38","00:06:00","00:06:00","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS"," 9:30:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:05:00","00:05:00","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS","10:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:56","00:03:56","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS","11:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:03:49","00:03:49","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_ESCAPAMENTO_SPS","12:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:02","00:01:02","0,00%","0,00%","0,0","Total Grupo",10,10,9,0,0,0,0,0,0,0,"0,00%","0,00%","90,00%","00:00:10","00:04:11","00:04:11","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO"," 6:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:00:11","00:00:11","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO"," 7:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:07:46","00:07:46","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO"," 8:00:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:07:10","00:07:10","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:31","00:04:31","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","10:00:00",6,6,5,0,0,0,0,0,0,0,"0,00%","0,00%","83,33%","00:00:10","00:03:45","00:03:45","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","10:00:00",6,6,5,0,0,0,0,0,0,0,"0,00%","0,00%","83,33%","00:00:10","00:03:45","00:03:45","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","10:00:00",6,6,5,0,0,0,0,0,0,0,"0,00%","0,00%","83,33%","00:00:10","00:03:45","00:03:45","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","10:30:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:07:01","00:07:01","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","10:30:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:07:01","00:07:01","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:34","00:04:34","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:34","00:04:34","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","11:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:33","00:04:33","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","12:00:00",5,5,5,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:02:49","00:02:49","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO","12:00:00",5,5,5,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:02:49","00:02:49","0,00%","0,00%","0,0","Total Grupo",20,20,19,0,0,0,0,0,0,0,"0,00%","0,00%","95,00%","00:00:05","00:04:12","00:04:12","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_CEG_RIO"," 9:00:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:07:41","00:07:41","0,00%","0,00%","0,0","Total Grupo",8,8,8,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:45","00:06:45","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_CEG_RIO"," 9:00:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:07:41","00:07:41","0,00%","0,00%","0,0","Total Grupo",8,8,8,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:45","00:06:45","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_CEG_RIO"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:04:49","00:04:49","0,00%","0,00%","0,0","Total Grupo",8,8,8,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:45","00:06:45","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_CEG_RIO","10:30:00",4,4,4,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:03:48","00:03:48","0,00%","0,00%","0,0","Total Grupo",8,8,8,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:45","00:06:45","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_CEG_RIO","11:00:00",0,0,0,0,0,0,0,0,0,0,"0,00%","0,00%","0,00%","00:00:00","00:00:00","00:00:00","0,00%","0,00%","0,0","Total Grupo",8,8,8,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:06:45","00:06:45","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS"," 6:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:00:09","00:00:09","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS"," 8:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:06:38","00:06:38","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS"," 9:00:00",7,7,6,0,0,0,0,0,0,0,"0,00%","0,00%","85,71%","00:00:12","00:02:28","00:02:28","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS"," 9:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:02:34","00:02:34","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS","11:00:00",2,2,2,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:01:51","00:01:51","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS","11:30:00",1,1,1,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:03","00:10:42","00:10:42","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"
+"Resumo Acompanhamento Emergências por Intervalo","Grupos de Trabalho:","BR_AGENTE_EMERGENCIA,BR_EMG_AGENTE,BR_EMG_ESCAPAMENTO,BR_EMG_GAS_FORTE,BR_EMG_GAS_FRACO,BR_EMG_AGENTE_CEG_RIO,BR_EMG_ESCAPAMENTO_CEG_RIO,BR_EMG_GAS_FRACO_CEG_RIO,BR_EMG_AGENTE_SPS,BR_EMG_ESCAPAMENTO_SPS,BR_EMG_GAS_FRACO_SPS ","Intervalo de data/hora:","15/02/2022 0:00:00 - 15/02/2022 23:59:59  (Hoje)","Intervalo de ID de sede:","1 ","Chamadas Recebidas","Chamadas Atendidas","Chamadas Aten. 10s","Chamadas Aten. 20s","Chamadas Aten. 30s","Chamadas  Abandonadas","Chamadas  Aband. 10 s","Chamadas  Aband. 20 s","Chamadas  Aband. 30 s","Chamadas  Aband +10s","%
+
+ Aband +10s","%
+
+ Abandono","Nível de Serviço","TME","TMO
+
+(200s)","TMA","% tempo 
+
+Disponivel","%
+
+ocupação","PA logadas","BR_EMG_GAS_FRACO_SPS","12:00:00",3,3,3,0,0,0,0,0,0,0,"0,00%","0,00%","100,00%","00:00:02","00:02:09","00:02:09","0,00%","0,00%","0,0","Total Grupo",16,16,15,0,0,0,0,0,0,0,"0,00%","0,00%","93,75%","00:00:07","00:02:58","00:02:58","0,00%","0,00%",0.00,"Total",148,148,142,3,0,0,0,0,0,0,"0,00%","0,00%","95,95%","00:00:04","00:03:34","00:03:34","0,00%","0,00%","Fecha de impresión: martes, 15 de febrero de 2022  12:51:22","Interactive Intelligence, Inc.","Página 1 de 1"

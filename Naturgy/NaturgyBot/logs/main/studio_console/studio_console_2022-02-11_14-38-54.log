@@ -1,0 +1,173 @@
+
+  ==========================================
+  Studio Pro version: 7.0.40
+  Started at: 11/02/2022 14:43:11
+  ==========================================
+  
+
+[2022-02-11T17:45:52.435Z] : [success]: Robot saved successfully
+
+[2022-02-11T17:45:52.680Z] : [info]: ---------------------------------------------
+
+[2022-02-11T17:45:52.774Z] : [success]: Bot started
+
+[2022-02-11T17:45:52.900Z] : [info]: Robot start
+
+[2022-02-11T17:46:30.259Z] : [success]: Bot finished successfully, total execution time: 37s 346ms
+
+[2022-02-11T17:46:30.299Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:05:09.149Z] : [success]: Bot started
+
+[2022-02-11T18:05:09.175Z] : [info]: Robot start
+
+[2022-02-11T18:05:31.921Z] : [success]: Bot finished successfully, total execution time: 22s 741ms
+
+[2022-02-11T18:05:31.943Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:11:15.381Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:11:15.581Z] : [success]: Bot started
+
+[2022-02-11T18:11:15.610Z] : [info]: Robot start
+
+[2022-02-11T18:11:44.831Z] : [success]: Bot finished successfully, total execution time: 29s 218ms
+
+[2022-02-11T18:11:44.843Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:12:45.415Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:12:45.582Z] : [success]: Bot started
+
+[2022-02-11T18:12:45.609Z] : [info]: Robot start
+
+[2022-02-11T18:13:00.397Z] : [success]: Bot finished successfully, total execution time: 14s 621ms
+
+[2022-02-11T18:13:00.922Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:15:40.330Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:15:40.658Z] : [success]: Bot started
+
+[2022-02-11T18:15:40.697Z] : [info]: Robot start
+
+[2022-02-11T18:16:10.861Z] : [success]: Bot finished successfully, total execution time: 30s 159ms
+
+[2022-02-11T18:16:10.888Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:37:56.295Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:37:56.639Z] : [success]: Bot started
+
+[2022-02-11T18:37:56.687Z] : [info]: Robot start
+
+[2022-02-11T18:38:04.649Z] : [success]: Bot finished successfully, total execution time: 7s 957ms
+
+[2022-02-11T18:38:04.674Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:39:17.066Z] : [success]: Bot started
+
+[2022-02-11T18:39:17.109Z] : [info]: Robot start
+
+[2022-02-11T18:39:22.841Z] : [error]: CAN_NOT_FIND_TAB
+
+[2022-02-11T18:39:23.156Z] : [error]: Total execution time: 5s 727ms
+
+[2022-02-11T18:39:23.267Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:41:43.267Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:41:43.403Z] : [success]: Bot started
+
+[2022-02-11T18:41:43.436Z] : [info]: Robot start
+
+[2022-02-11T18:41:47.316Z] : [error]: Script Stopped.
+
+[2022-02-11T18:41:47.377Z] : [warn]: Total execution time: 3s 877ms
+
+[2022-02-11T18:41:47.415Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:43:49.344Z] : [success]: Robot saved successfully
+
+[2022-02-11T18:43:49.520Z] : [success]: Bot started
+
+[2022-02-11T18:43:49.546Z] : [info]: Robot start
+
+[2022-02-11T18:43:51.981Z] : [error]: Timeout has occurred
+
+[2022-02-11T18:43:52.015Z] : [error]: Total execution time: 2s 430ms
+
+[2022-02-11T18:43:52.046Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:48:37.387Z] : [success]: Bot started
+
+[2022-02-11T18:48:37.437Z] : [info]: Robot start
+
+[2022-02-11T18:48:43.060Z] : [error]: Timeout has occurred
+
+[2022-02-11T18:48:43.177Z] : [error]: Total execution time: 5s 605ms
+
+[2022-02-11T18:48:43.250Z] : [info]: ---------------------------------------------
+
+[2022-02-11T18:49:40.928Z] : [success]: Bot started
+
+[2022-02-11T18:49:40.956Z] : [info]: Robot start
+
+[2022-02-11T18:49:44.998Z] : [error]: Timeout has occurred
+
+[2022-02-11T18:49:45.231Z] : [error]: Total execution time: 4s 42ms
+
+[2022-02-11T18:49:45.272Z] : [info]: ---------------------------------------------
+
+[2022-02-11T19:06:47.827Z] : [success]: Robot saved successfully
+
+[2022-02-11T19:06:48.023Z] : [success]: Bot started
+
+[2022-02-11T19:06:48.046Z] : [info]: Robot start
+
+[2022-02-11T19:07:21.885Z] : [error]: Script Stopped.
+
+[2022-02-11T19:07:21.918Z] : [warn]: Total execution time: 33s 837ms
+
+[2022-02-11T19:07:21.945Z] : [info]: ---------------------------------------------
+
+[2022-02-11T19:07:57.481Z] : [success]: Robot saved successfully
+
+[2022-02-11T19:07:57.657Z] : [success]: Bot started
+
+[2022-02-11T19:07:57.691Z] : [info]: Robot start
+
+[2022-02-11T19:09:38.914Z] : [success]: Bot finished successfully, total execution time: 1m 41s 172ms
+
+[2022-02-11T19:09:38.933Z] : [info]: ---------------------------------------------
+
+[2022-02-11T19:14:42.991Z] : [success]: Robot saved successfully
+
+[2022-02-11T19:15:22.326Z] : [success]: Bot started
+
+[2022-02-11T19:15:22.353Z] : [info]: Robot start
+
+[2022-02-11T19:17:24.752Z] : [success]: Bot finished successfully, total execution time: 2m 2s 391ms
+
+[2022-02-11T19:17:24.797Z] : [info]: ---------------------------------------------
+
+[2022-02-11T19:24:36.322Z] : [success]: Robot saved successfully
+
+[2022-02-11T19:24:36.495Z] : [success]: Bot started
+
+[2022-02-11T19:24:36.517Z] : [info]: Robot start
+
+[2022-02-11T19:26:04.440Z] : [success]: Bot finished successfully, total execution time: 1m 27s 908ms
+
+[2022-02-11T19:26:04.596Z] : [info]: ---------------------------------------------
+
+[2022-02-11T19:28:39.266Z] : [success]: Robot saved successfully
+
+[2022-02-11T19:51:45.600Z] : [success]: Robot saved successfully
+
+[2022-02-11T20:07:10.677Z] : [success]: Robot saved successfully
+
+[2022-02-11T20:07:25.778Z] : [success]: Robot saved successfully
+
+[2022-02-11T20:07:27.920Z] : [error]: Cannot read property 'type' of null
+

@@ -1,0 +1,55 @@
+
+  ==========================================
+  Studio Pro version: 7.0.40
+  Started at: 14/02/2022 17:13:30
+  ==========================================
+  
+
+[2022-02-14T20:13:46.406Z] : [success]: Robot saved successfully
+
+[2022-02-14T20:13:46.650Z] : [info]: ---------------------------------------------
+
+[2022-02-14T20:13:46.668Z] : [success]: Bot started
+
+[2022-02-14T20:13:46.695Z] : [info]: Robot start
+
+[2022-02-14T20:14:10.227Z] : [error]: Cannot read property 'status' of null
+
+[2022-02-14T20:14:10.288Z] : [error]: Total execution time: 23s 529ms
+
+[2022-02-14T20:14:10.317Z] : [info]: ---------------------------------------------
+
+[2022-02-14T20:14:30.618Z] : [success]: Bot started
+
+[2022-02-14T20:14:30.666Z] : [info]: Robot start
+
+[2022-02-14T20:15:07.109Z] : [error]: Script Stopped.
+
+[2022-02-14T20:15:07.139Z] : [warn]: Total execution time: 36s 443ms
+
+[2022-02-14T20:15:07.163Z] : [info]: ---------------------------------------------
+
+[2022-02-14T20:17:04.752Z] : [success]: Bot started
+
+[2022-02-14T20:17:04.785Z] : [info]: Robot start
+
+[2022-02-14T20:21:57.809Z] : [error]: Script Stopped.
+
+[2022-02-14T20:21:57.986Z] : [warn]: Total execution time: 4m 53s 21ms
+
+[2022-02-14T20:21:58.029Z] : [info]: ---------------------------------------------
+
+[2022-02-14T20:28:33.243Z] : [info]: Internet connection // error
+
+[2022-02-14T20:28:33.750Z] : [success]: Bot started
+
+[2022-02-14T20:28:33.776Z] : [info]: Robot start
+
+[2022-02-14T20:28:45.514Z] : [error]: Script Stopped.
+
+[2022-02-14T20:28:45.546Z] : [warn]: Total execution time: 11s 734ms
+
+[2022-02-14T20:28:45.575Z] : [info]: ---------------------------------------------
+
+[2022-02-14T21:42:15.321Z] : [success]: Robot saved successfully
+
